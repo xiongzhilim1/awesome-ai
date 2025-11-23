@@ -1,0 +1,2 @@
+# AI Foundations
+Notes template.
